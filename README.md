@@ -19,8 +19,6 @@ A responsive and visually appealing landing page for **Ideovent Technologies**, 
 
 - ⚡ Hero section with animated typewriter text
 - 📱 Fully responsive design (mobile, tablet, desktop)
-- 💡 "Why Choose Us" section with smooth fade-in animation
-- 🧩 Service cards with hover lift and color effects
 - 🎨 Clean UI with modern styling using Tailwind CSS
 - 🔗 Social media links and contact info in footer
 
