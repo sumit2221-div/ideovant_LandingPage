@@ -33,7 +33,7 @@ const Hero = () => {
         {/* SplitText title */}
         <SplitText
           text="Welcome to Ideovent Technologies"
-          className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-blue-700 mb-4"
+          className="text-2xl sm:text-2xl md:text-4xl lg:text-5xl font-bold text-blue-700 mb-4"
           delay={100}
           duration={0.6}
           ease="power3.out"
